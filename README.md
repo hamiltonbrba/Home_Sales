@@ -31,3 +31,11 @@ This project uses PySpark to analyze home sales data, leveraging SparkSQL, cachi
 - **Parquet** for storage optimization
 - **Python 3.8+**
 
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone <https://github.com/hamiltonbrba/Home_Sales.git>
+   cd <Home_Sales>
+   ```
+2. Install dependencies and set up Spark.
+3. Run the notebook or Python script.
