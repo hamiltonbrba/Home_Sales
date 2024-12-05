@@ -25,4 +25,9 @@ This project uses PySpark to analyze home sales data, leveraging SparkSQL, cachi
 5. Partition the data by `date_built` and save as Parquet.
 6. Run queries on the partitioned data and compare runtimes.
 
+## Technologies
+- **Apache Spark 3.4.0**
+- **PySpark**
+- **Parquet** for storage optimization
+- **Python 3.8+**
 
